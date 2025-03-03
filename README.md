@@ -1,3 +1,5 @@
+# DNA-Binding-Protein-Classification
+
 # Dataset Description
 There are some proteins that interact with DNA and controls many characteristics of the DNA. The impact is so powerful that it even affects drug design at industry level. Our goal in this project is to devise a computational method that is able to distinguish DNA binding proteins (positive class) from normal proteins (negative class). There are protein structure based laboratory methods for this, but they are time consuming, expensive and worst of all not even accurate. What we want to do is: design a machine learning based approach to do this task given the protein sequences in a cheap and easy way. You do not need any biology knowledge to work on this problem. But if you want to explore protein biology and relevant feature extraction tools, you are most welcome to do so. 
 
